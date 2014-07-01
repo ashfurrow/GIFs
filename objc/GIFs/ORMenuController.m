@@ -258,6 +258,7 @@ NS_ENUM(NSUInteger, ORMenuTitle){
         [ORMenuItem itemWithName:@"/r/Cinemagraphs" address:@"http://www.reddit.com/r/cinemagraphs.json"],
         [ORMenuItem itemWithName:@"/r/chemicalreactiongifs" address:@"http://www.reddit.com/r/chemicalreactiongifs.json"],
         [ORMenuItem itemWithName:@"/r/perfectloops" address:@"http://www.reddit.com/r/perfectloops.json"],
+        [ORMenuItem itemWithName:@"/r/instant_regret" address:@"http://www.reddit.com/r/instant_regret.json"],
     ];
 }
 
